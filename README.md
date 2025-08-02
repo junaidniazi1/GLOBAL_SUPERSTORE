@@ -8,7 +8,7 @@
 A comprehensive, interactive business intelligence dashboard built with Streamlit for analyzing Global Superstore sales data. This dashboard provides real-time insights into sales performance, profitability trends, and customer behavior patterns.
 
 ![DASHBOARD PREVIEW](Screenshot%202025-08-02%20184803.png)
-![DASHBOARD PREVIEW](Screenshot%202025-08-02%20184803.png)
+![Screenshot](Screenshot%202025-08-02%20184725.png)
 
 
 ## 🌟 Features

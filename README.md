@@ -6,6 +6,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 A comprehensive, interactive business intelligence dashboard built with Streamlit for analyzing Global Superstore sales data. This dashboard provides real-time insights into sales performance, profitability trends, and customer behavior patterns.
+![Dashboard Preview](images/dashboard-preview.png)
 
 ## 🌟 Features
 
